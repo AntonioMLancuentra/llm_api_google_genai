@@ -1,0 +1,1 @@
+Proof of Concept (PoC) to connect to a commercial LLM via API and do simple tasks
